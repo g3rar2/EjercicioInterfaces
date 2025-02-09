@@ -10,6 +10,7 @@ namespace EjercicioInterfaces
     {
 
         public double Area();
+
         public double Hipotenusa();
 
         public double Volumen();
